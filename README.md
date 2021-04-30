@@ -11,6 +11,9 @@ TBD
 Monique, April, Tony, & Nick
 
 **Project Description**
+
 **Objectives / Project Questions to Answer**
+
 **Data Sources (APIs, Datasets)**
+
 **Rough Breakdown of Tasks**
