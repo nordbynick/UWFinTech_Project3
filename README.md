@@ -22,7 +22,7 @@ After a 1-year pandemic, we all need a vacation...
 - Predict the number of nights stayed for types of guests.
 
 ## **Data Sources**
-- [Hotel Booking Demand] (https://www.kaggle.com/jessemostipak/hotel-booking-demand)
+- [Hotel Booking Demand](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 
 
 ## **Action Items**
