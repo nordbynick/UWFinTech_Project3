@@ -1,16 +1,16 @@
 # UWFinTech_Project3
-Monique, April, Tony, &amp; Nick
 
-**Problem?**
+The Hotel Dilemma
 
-Use ML & pythong to solve a demand forecasting/supply chain management problem
+**Project Title**
 
-**How?**
+TBD
 
-Find & clean a data set (kaggle as resource?)
+**Team Members**
 
-Identify problem & apply machine learning methods
+Monique, April, Tony, & Nick
 
-Add in other useful information/bells and whistles
-
-Visualize outcomes
+**Project Description**
+**Objectives / Project Questions to Answer**
+**Data Sources (APIs, Datasets)**
+**Rough Breakdown of Tasks**
