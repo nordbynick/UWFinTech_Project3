@@ -43,5 +43,12 @@ After a 1-year pandemic, we all need a vacation...
   - Visualize different demographics
   - Visualize different ML model outcomes?
 
+## **Technologies**
+- Jupyter lab
+- Python
+- Pandas
+- Numpy
+- Sklearn
+
 
 
