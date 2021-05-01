@@ -1,4 +1,4 @@
-# The Hotel Dilema
+# The Hotel Dilemma
 
 ## **Team Members**
 - Monique
