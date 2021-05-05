@@ -14,12 +14,11 @@ After a 1-year pandemic, we all need a vacation...
 - When is the best time of year to book a hotel room?
 - What is the optimal length of stay in order to get the best daily rate?
 - Do customers prefer to stay at a City Hotel or Resort Hotel? 
-- How many nights on average do guests with children stay vs. guests w/o children
 
 ## **Objectives**
-- Predict minimum, maximum, average, etc. hotel occupancy in relation to customer preferences.
-- Predict seasonality by hotel type and market segment.
-- Predict the number of nights stayed for types of guests.
+- Build a ML model that can predict whether a reservation will be canceled. 
+- Determine what season do customers tend to make reservations? 
+- Through visual aid, identify....
 
 ## **Data Sources**
 - [Hotel Booking Demand](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
