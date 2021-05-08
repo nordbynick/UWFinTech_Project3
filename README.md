@@ -37,6 +37,7 @@ After a 1-year pandemic, we all need a vacation...
   - Visualize by season
   - Visualize different demographics
   - Visualize different ML model outcomes?
+  - Explore other means and methods of visualization that may give unique insight into the data set
 
 ## **Work Assignments**
 - ML Models & Workbook - April + Nick
