@@ -23,12 +23,12 @@ After a 1-year pandemic, we all need a vacation...
 
 ## **Action Items**
 - Data Cleaning & Shaping
-  - Data comes from/affiliated with an article Hotel Booking Demand Datasets 
-  - Data was cleaned by Thomas Mock and Antoine Bichat (additional cleaning and organization conducted by our team)
+  - Data comes from/affiliated with an article: Hotel Booking Demand Datasets 
+  - Data was cleaned by Thomas Mock and Antoine Bichat (additional cleaning and shaping conducted by our team)
   - Is there further noise/info we want to weed out?
 - ML Model
   - Which model to use (try multiple models)
-  - Ensemble/Classifier/Decision Tree/Regression? Pick several and also apply resampling techniques if needed. We predict classifier models will be the most effective given we will be 
+  - Ensemble/Classifier/Decision Tree/Regression? Pick several and also apply resampling techniques if needed. We predict classifier models will be the most effective given we will be classifying a binary outcome (cancelled vs not cancelled)
   - Which parameters/inputs produce the best outcomes (train/test split; different inputs for each ML model type aka reference documentation; which models are most efficient, what features in the dataset can we eliminate)
   - Look at data in different ways? Is the model/data better for predicting in the summer/winter/fall/etc? Should we try forecasting for specific date ranges, like spring break, holiday breaks, etc. This will be a reach if we have time.
   - Were our models better at city hotel (business travel based?) vs. resort hotel (vacation travel based?). This will also be a reach if we have time.
