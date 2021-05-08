@@ -22,9 +22,9 @@ After a 1-year pandemic, we all need a vacation...
 - [Hotel Booking Demand](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 
 ## **Action Items**
-- Data cleaning and shaping
+- Data Cleaning & Shaping
   - Data comes from/affiliated with an article Hotel Booking Demand Datasets 
-  - Data was cleaned by Thomas Mock and Antoine Bichat (additional cleaning and organization conducted by April & Nick)
+  - Data was cleaned by Thomas Mock and Antoine Bichat (additional cleaning and organization conducted by our team)
   - Is there further noise/info we want to weed out?
 - ML Model
   - Which model to use (try multiple models)
@@ -37,6 +37,11 @@ After a 1-year pandemic, we all need a vacation...
   - Visualize by season
   - Visualize different demographics
   - Visualize different ML model outcomes?
+
+## **Work Assignments**
+- ML Models & Workbook - April + Nick
+- Data Visualizations & Dashboard - Monique + Tony
+- Slide Show - Whole Team
 
 ## **Technologies**
 - Jupyter lab
