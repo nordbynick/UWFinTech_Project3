@@ -14,7 +14,7 @@
 
 ## **Research Questions**
 - Using data and machine learning models, can hotel reservation cancellations be predicted?
-- If yes to the above question, what models and methods most accurately predict hotel cancellations?
+- If yes to the above question, what models and methods most accurately predict hotel reservation cancellations?
 
 ## **Objectives**
 - Build a ML model that can predict whether a hotel reservation will be cancelled 
@@ -28,7 +28,7 @@
   - Data comes from/affiliated with an article: Hotel Booking Demand Datasets 
   - Data was cleaned by Thomas Mock and Antoine Bichat (additional cleaning and shaping conducted by our team)
   - Is there further noise/info we want to weed out? Label encoding?
-- ML Model
+- Machine Learning Model
   - Which model to use (try multiple models)
   - Ensemble/Classifier/Decision Tree/Regression? Pick several and also apply resampling techniques if needed. We predict classifier models will be the most effective given we will be classifying a binary outcome (cancelled vs not cancelled)
   - Which parameters/inputs produce the best outcomes (train/test split; different inputs for each ML model type aka reference documentation; which models are most efficient, what features in the dataset can we eliminate)
