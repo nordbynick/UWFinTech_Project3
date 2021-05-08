@@ -9,7 +9,8 @@
 
 ## **Motivation**
 
-After a 1-year pandemic, we all need a vacation...
+- After a 1-year pandemic, we all need a vacation...
+- Our group wanted to conduct a project using the tools learned in both Module 1 & Module 2 of the boot camp (python + machine learning). We set out looking for data sets and questions related to supply chain management and demand forecasting, which led us to a very interesting prompt & data set related to hotel demand and forecasting reservation cancellations. Given we all need a good vacation, we pursued the the following project...
 
 ## **Research Questions**
 - Using data and machine learning models, can hotel reservation cancellations be predicted?
