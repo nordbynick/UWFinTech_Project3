@@ -68,5 +68,9 @@
 
 ![](Images/accuracy_score_viz.PNG)
 
-
+## **Presentation Assignments**
+- Intro & Hypothesis: Tony
+- Visualizations & Intro to Data: Monique
+- Data Preparation & Model Selection: Nick
+- Model Outcomes, Conclusions, & Takeaways: April
 
