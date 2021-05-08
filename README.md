@@ -47,9 +47,11 @@ After a 1-year pandemic, we all need a vacation...
 - Pyviz
 - More to be imported and utilized in our python files
 
-## **Atachments**
+## **Attachments**
 - Analysis Folder - Please find our ML python files
-- Visualization Folder - Please find our visualization python files
+- Visualizations Folder - Please find our visualization python files
+- Data Folder - Please find our original data set and our label encoded data set
+- Main Branch - Please find a pdf of our final presentation
 
 ## **Outcomes**
 - Using machine learning models, our Team was able to predict hotel cancellations with confidence (particularly using the SMOTEENN Resampling + BalancedRandomForestClassifier model). Please see our uploaded slide show for an in depth analysis of the outcomes.
