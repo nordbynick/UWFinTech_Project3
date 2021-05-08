@@ -27,7 +27,7 @@
 - Data Cleaning & Shaping
   - Data comes from/affiliated with an article: Hotel Booking Demand Datasets 
   - Data was cleaned by Thomas Mock and Antoine Bichat (additional cleaning and shaping conducted by our team)
-  - Is there further noise/info we want to weed out?
+  - Is there further noise/info we want to weed out? Label encoding?
 - ML Model
   - Which model to use (try multiple models)
   - Ensemble/Classifier/Decision Tree/Regression? Pick several and also apply resampling techniques if needed. We predict classifier models will be the most effective given we will be classifying a binary outcome (cancelled vs not cancelled)
@@ -58,7 +58,7 @@
 ## **Attachments**
 - Analysis Folder - Please find our ML python files
 - Visualizations Folder - Please find our visualization python files
-- Data Folder - Please find our original data set and our label encoded data set
+- Data Folder - Please find our original data set
 - Main Branch - Please find a pdf of our final presentation
 
 ## **Outcomes**
