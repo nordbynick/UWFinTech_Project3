@@ -2,10 +2,10 @@
 - UW FinTech Boot Camp - Project 3 Submission - May 2021
 
 ## **Team Members**
-- Monique
-- Tony 
-- April 
-- Nick 
+- Monique T.
+- Tony H.
+- April A.
+- Nick N.
 
 ## **Motivation**
 
