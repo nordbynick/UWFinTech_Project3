@@ -15,7 +15,7 @@ After a 1-year pandemic, we all need a vacation...
 - If yes to the above question, what models and methods most accurately predict hotel cancellations?
 
 ## **Objectives**
-- Build a ML model that can predict whether a reservation will be canceled. 
+- Build a ML model that can predict whether a hotel reservation will be canceled 
 - Analyze and understand data via organization, visualization, and dashboards
 
 ## **Data Sources**
