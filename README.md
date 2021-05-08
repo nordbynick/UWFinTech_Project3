@@ -1,4 +1,5 @@
 # The Hotel Dilemma
+- UW FinTech Boot Camp - Project 3 Submission - May 2021
 
 ## **Team Members**
 - Monique
