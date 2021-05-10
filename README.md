@@ -61,7 +61,7 @@
 - Main Branch - Please find a pdf of our final presentation
 
 ## **Outcomes**
-- Using machine learning models, our Team was able to predict hotel cancellations with confidence (particularly using the SMOTEENN Resampling + BalancedRandomForestClassifier model, which rendered a ~90% accuracy score). Vizualizations of our final accuracy score outcomes are below. Please see our uploaded slide show for an in depth analysis of the outcomes.
+- Using machine learning models, our Team was able to predict hotel cancellations with confidence (particularly using the SMOTEENN Resampling + BalancedRandomForestClassifier model, which rendered a ~90% accuracy score). Vizualizations of our final accuracy score outcomes are below. Please see our uploaded slide show for more information on the outcomes.
 
 ![](Images/accuracy_score_grid.PNG)
 
